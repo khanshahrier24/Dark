@@ -1,0 +1,88 @@
+body{
+    font-family: 'Segoe UI';
+    margin: 0px;
+    background-color:rgb(234, 204, 9) ;
+    margin-right: 0px;
+}
+.distr
+{
+    height: 75vh;
+    width: auto;
+    background-image: url(im/444.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+   background-size: cover;
+   position: relative;
+   
+
+}
+.bar{
+    padding-top: 50px;
+    color: azure;
+}
+.star
+{
+    
+    padding-bottom: 50px;
+    font-size: 80px;
+    color:rgb(234, 204, 9)
+}
+.nav-link
+{
+    color: azure;
+}
+.navbar-brand
+{
+    color: azure;
+}
+.navbar-toggler
+{
+    background-color: azure;
+
+}
+.bgtr
+{
+    background-image: url(/im/1100.jpg);
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40vh;
+    color: azure;
+    
+  
+    background-position-y: center;
+
+}
+.bgtr2
+{
+    color: azure;
+    background-color: black;
+    height: 40vh;
+   
+}
+.fb
+{
+    padding-top: 20px;
+   
+}
+.cc
+{
+    color:rgb(234, 204, 9) 
+}
+.align-items-center
+{
+    align-items: center!important;
+}
+.btn
+{
+    color: black;
+
+    margin-top: 5px;
+}
+.messi
+{
+   
+    height: 50vh;
+
+ 
+}
